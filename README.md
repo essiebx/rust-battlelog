@@ -42,3 +42,73 @@ fn main() {
     assert_eq!(x, 4);
     println!("All good, x = {}", x);
 }
+
+### ✅ Day 2,day 3,day 4: 
+
+## ✅ Topics Covered
+✅ Day 2–4: Variables, Functions, Ownership, Logic
+Practiced mutability vs shadowing
+
+Mastered fn, return values, and expressions
+
+Covered borrowing & references
+
+Worked through boolean logic and CLI interaction
+
+
+- ✅ Variables (mutable, shadowing)
+- ✅ Functions and return values
+- ✅ Ownership, borrowing
+- ✅ Boolean logic
+- ✅ Control flow (`if`, `match`)
+- ✅ Loops (`while`, `for`)
+- ✅ Strings and slices
+- ✅ Type casting, expressions
+- ✅ CLI project: Guessing Game
+
+---
+
+## 💡 Notes
+
+- This project is built and tested using `cargo check` and `cargo run`.
+- Each subfolder has its own `main.rs` entry with working code.
+
+---
+
+## 🔗 To Do
+
+- [ ] Add `pattern_matching/` practice
+- [ ] Add Solana-style low-level data modeling
+- [ ] Expand guessing game with retries and scoring
+
+## ✅ Topics Covered So Far
+✅ Variables (immutable, mutable, shadowing)
+
+✅ Functions & return values
+
+✅ Ownership, borrowing, references
+
+✅ Boolean logic & operators
+
+✅ Control flow: if, match
+
+✅ Loops: loop, while, for
+
+✅ Strings and slices
+
+✅ Type casting, expressions
+
+✅ CLI project: Guessing Game
+
+## 🛠️ How to Run
+## Each subfolder has a working main.rs file for that concept.
+''' 
+cargo check       # fast syntax check
+cargo run         # run current main.rs
+
+## ✨ Mindset
+“You don’t rise to the level of your goals. You fall to the level of your systems.”
+
+This repo is part of my system — one daily commit at a time.
+
+
