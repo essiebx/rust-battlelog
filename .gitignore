@@ -1,0 +1,3 @@
+# Ignore target folders in all crates
+**/target/
+**/Cargo.lock
