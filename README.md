@@ -4,7 +4,7 @@ Welcome to my Rust journey — a focused learning path to master Rust for Web3, 
 
 ## 🚀 Why I'm Learning Rust
 
-- To build performant and safe smart contracts on **Solana**
+- To build performant and safe programs
 - To deepen my understanding of **memory safety, ownership, and lifetimes**
 - To contribute to open-source projects in **Web3 and decentralized AI**
 
