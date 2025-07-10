@@ -19,7 +19,7 @@ fn main() {
     for i in 1..6 {
         println!("i is: {}", i);
     }
-    /*his prints numbers from 1 to 5.
+    /*this prints numbers from 1 to 5.
 
     Note: 1..6 means from 1 up to (but not including) 6.
 
